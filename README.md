@@ -40,6 +40,25 @@
 
 ---
 
+## 최적화 전략
+
+### 1. 캐싱
+
+100만건의 데이터 주입 후 결과 비교
+
+#### 캐싱 적용 전
+<img src="https://github.com/user-attachments/assets/f0772155-d6b6-4833-94c4-8fb3bd8d8738" width="50%" />
+
+#### 캐싱 적용 후
+<img src="https://github.com/user-attachments/assets/c3da51dd-9736-42d1-88b0-13d9e5c5b0e4" width="50%" />
+
+
+### 2. 인덱싱
+200만건의 데이터 주입 후 결과 비교
+<br><img width="691" alt="image" src="https://github.com/user-attachments/assets/57b6bd07-7f22-438d-8e07-a45cafd89366">
+
+
+
 # API 목록
 
 | **필수 여부** | **담당자**            | **기능**                          | **Method** | **URL**                                          | **Request Header**                         | **Response Header** | **Request**                                                                                         | **Response**                                                                                         |
