@@ -30,6 +30,10 @@
 
 ---
 
+### 최적화
+![image](https://github.com/user-attachments/assets/71e4702b-f539-4a55-a263-8b4be04a45a2)
+
+
 ## ERD (Entity Relationship Diagram)  
 ![image](https://github.com/user-attachments/assets/d69d51f2-f00d-48de-9846-ed45b5c91df1)
 
